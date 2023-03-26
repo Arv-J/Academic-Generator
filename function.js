@@ -1,3 +1,9 @@
+swal({
+    title: "Buy me a coffee?",
+    text: "Made with code by Arvz.",
+    imageUrl: "images/152760.png"
+  });
+
 function generateRandomWord() {
     
     //array for title and description.
@@ -35,5 +41,3 @@ function generateRandomWord() {
             break;
         }
 }
-
-
