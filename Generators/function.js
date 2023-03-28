@@ -1,6 +1,6 @@
 swal({
     title: "Buy me a coffee?",
-    text: "Made with code by Arvz.",
+    text: "Pull me on: https://github.com/Arv-J/CapstonetitleGenerator.git",
     imageUrl: "images/152760.png"
   });
 
@@ -13,7 +13,20 @@ function generateRandomWord() {
                     "Indoor Air Quality Monitoring System", 
                     "E-Voting System", 
                     "Online School Portal System", 
-                    "Inventory Management System"
+                    "Inventory Management System",
+
+                    //newly add titles.
+                    "Home Surveillance and Automation",
+                    "Payroll System",
+                    "Hotel and Reservation System",
+                    "Online Bidding System",
+                    "Billing System",
+                    "Library Management System",
+                    "Supply Invetory System",
+                    "Medical Records System",
+                    "Human Resource Management System",
+                    "Electronic Police Clearance System",
+                    "Online Grading System",
                 ];
     var description = [
                 
@@ -21,7 +34,21 @@ function generateRandomWord() {
                     "A indoor air quality monitoring system is a device or system that measures and tracks various factors that affect the air quality indoors. These factors may include temperature, humidity, carbon dioxide levels, and air pollutants. The system is designed to provide real-time information to help maintain healthy and safe indoor environments for occupants.",
                     "E-voting system is an electronic voting system that allows voters to cast their votes remotely using a computer or mobile device. The system is designed to improve the accuracy, security, and efficiency of the voting process. It can reduce the time and costs associated with traditional voting methods while increasing accessibility for voters.",
                     "A school portal is a web-based platform designed to provide information and services to students, parents, and teachers. It typically includes features such as course materials, grade tracking, communication tools, and other resources relevant to the academic community.",
-                    "A inventory management system is a software application designed to help businesses track and manage their inventory levels, orders, and sales. It provides real-time information about stock levels, supplier details, and sales data to help businesses optimize their inventory and supply chain management."
+                    "A inventory management system is a software application designed to help businesses track and manage their inventory levels, orders, and sales. It provides real-time information about stock levels, supplier details, and sales data to help businesses optimize their inventory and supply chain management.",
+                    
+                    //newly add descriptions.
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                
                 ];
 
         //randomize and display the title.
